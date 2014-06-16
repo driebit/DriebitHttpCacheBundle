@@ -5,6 +5,11 @@ DriebitHttpCacheBundle
 [![Code Coverage](https://scrutinizer-ci.com/g/driebit/DriebitHttpCacheBundle/badges/coverage.png?s=7d94f5c66673b8e3a61a27e294e4f1a975bcded3)](https://scrutinizer-ci.com/g/driebit/DriebitHttpCacheBundle/) 
 [![Latest Stable Version](https://poser.pugx.org/driebit/http-cache-bundle/v/stable.png)](https://packagist.org/packages/driebit/http-cache-bundle)
 
+Deprecated
+==========
+
+This bundle has been replaced with the [FOSHttpCacheBundle](https://github.com/FriendsOfSymfony/FOSHttpCacheBundle). 
+
 Introduction
 ------------
 
